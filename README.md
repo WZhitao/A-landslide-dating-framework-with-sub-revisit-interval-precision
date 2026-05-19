@@ -1,10 +1,21 @@
-*A landslide dating framework with sub-revisit interval precision through integration of remote sensing imagery and natural triggers*
+# A landslide dating framework with sub-revisit interval precision through integration of remote sensing imagery and natural triggers
 
-This project includes the executable program for landslide dating associated with the article A landslide dating framework with sub-revisit interval precision through integration of remote sensing imagery and natural triggers and the test data available for use. Once the manuscript is accepted, we will release the source code here.
+This repository contains the executable program and test data associated with the article:
 
-The approach begins by constructing a dense vegetation index (VI) series through the fusion of multi source remote sensing imagery. From this sequence, we extract signature anomalies that quantify the intensity of surface disturbances induced by landslides and provide timing information at the revisit interval. This preliminary date is further refined by integrating anomalies from natural triggers, which enables precision beyond the satellite revisit cycle. Additional methodological details are available in our paper.
+> **A landslide dating framework with sub-revisit interval precision through integration of remote sensing imagery and natural triggers**
 
-**How to Use**
+Once the manuscript is accepted, the source code will be released in this repository.
+
+---
+# Overview
+
+The proposed framework constructs a dense vegetation index (VI) time series through fusion of multi-source remote sensing imagery. Signature anomalies are extracted from the series to quantify surface disturbances caused by landslides and to provide preliminary timing information at the revisit-interval scale. This preliminary timing is further refined by integrating anomalies from natural triggers, enabling dating precision beyond the satellite revisit cycle.
+
+Additional methodological details are available in the manuscript.
+
+---
+
+# How to Use
 
 **Step 1:** Download time series data from GEE
 
@@ -35,11 +46,11 @@ Before this step, please download our executable program (Fig. 3).
 3. Click Start Analysis to begin the calculation. Once completed, you can view the dating results directly in the app (Fig. 4) or in the saved output files (Fig. 5).
 
 
-**Cite Us**
+# Cite Us
 
 If this project is helpful to your research, please cite our article:
 
-A landslide dating framework with sub revisit interval precision through integration of remote sensing imagery and natural triggers.
+> A landslide dating framework with sub revisit interval precision through integration of remote sensing imagery and natural triggers.
 
 
 
