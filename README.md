@@ -1,4 +1,4 @@
-> **A landslide dating framework with sub-revisit interval precision through integration of remote sensing imagery and natural triggers**
+**A landslide dating framework with sub-revisit interval precision through integration of remote sensing imagery and natural triggers**
 
 This project includes the executable program for landslide dating associated with the article A landslide dating framework with sub-revisit interval precision through integration of remote sensing imagery and natural triggers and the test data available for use. Once the manuscript is accepted, we will release the source code here.
 
@@ -22,6 +22,8 @@ In our GEE App (Fig. 1, https://idyllic-nova-460013-e0.projects.earthengine.app/
     
 After completion, you will obtain the landslide time series data (Fig. 2) for use in the next step.
 
+
+
 **Step 2:** Determine the landslide date based on time series
 
 Before this step, please download our executable program (Fig. 3).
@@ -32,10 +34,14 @@ Before this step, please download our executable program (Fig. 3).
 
 3. Click Start Analysis to begin the calculation. Once completed, you can view the dating results directly in the app (Fig. 4) or in the saved output files (Fig. 5).
 
+
 **Cite Us**
+
 If this project is helpful to your research, please cite our article:
 
 A landslide dating framework with sub revisit interval precision through integration of remote sensing imagery and natural triggers.
+
+
 
 
 <img width="974" height="620" alt="image" src="https://github.com/user-attachments/assets/04da5420-4a3e-4fc0-ae95-49c3f17f24bd" />
