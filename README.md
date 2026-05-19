@@ -30,7 +30,7 @@ Before this step, please download our executable program (Fig. 3).
 
 1. Choose the input table. Both single file and batch processing are supported. For batch processing, store multiple CSV files in a single folder and select that folder.
 
-2.Choose the output file (optional). The program can save the dating process as images and summarize the landslide dates in a single table. Leave this field empty if you do not need to save the results.
+2. Choose the output file (optional). The program can save the dating process as images and summarize the landslide dates in a single table. Leave this field empty if you do not need to save the results.
 
 3. Click Start Analysis to begin the calculation. Once completed, you can view the dating results directly in the app (Fig. 4) or in the saved output files (Fig. 5).
 
