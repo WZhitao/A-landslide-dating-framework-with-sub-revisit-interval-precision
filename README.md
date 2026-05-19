@@ -46,6 +46,9 @@ Before this step, please download our executable program (Fig. 3).
 3. Click Start Analysis to begin the calculation. Once completed, you can view the dating results directly in the app (Fig. 4) or in the saved output files (Fig. 5).
 
 
+---
+
+
 # Cite Us
 
 If this project is helpful to your research, please cite our article:
