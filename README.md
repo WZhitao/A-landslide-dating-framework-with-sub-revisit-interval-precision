@@ -1,4 +1,4 @@
-**A landslide dating framework with sub-revisit interval precision through integration of remote sensing imagery and natural triggers**
+*A landslide dating framework with sub-revisit interval precision through integration of remote sensing imagery and natural triggers*
 
 This project includes the executable program for landslide dating associated with the article A landslide dating framework with sub-revisit interval precision through integration of remote sensing imagery and natural triggers and the test data available for use. Once the manuscript is accepted, we will release the source code here.
 
