@@ -77,3 +77,8 @@ Fig. 4 Visualization interface of the dating result.
 <img width="976" height="619" alt="image" src="https://github.com/user-attachments/assets/de831df7-0b3d-4df9-9802-5b243b651efa" />
 
 Fig. 5 Example of saved output.
+
+---
+
+# Author
+Jia Liu, Zhitao Wei, Xing Gao, Yuming Wu
