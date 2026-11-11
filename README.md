@@ -4,7 +4,6 @@ This repository contains the executable program and test data associated with th
 
 > **A landslide dating framework integrating remote sensing imagery and natural triggers**
 
-Once the manuscript is accepted, the source code will be released in this repository.
 
 ---
 # Overview
