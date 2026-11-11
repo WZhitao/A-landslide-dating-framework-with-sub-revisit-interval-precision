@@ -1,15 +1,15 @@
-# A landslide dating framework with sub-revisit interval precision through integration of remote sensing imagery and natural triggers
+# A landslide dating framework integrating remote sensing imagery and natural triggers
 
 This repository contains the executable program and test data associated with the article:
 
-> **A landslide dating framework with sub-revisit interval precision through integration of remote sensing imagery and natural triggers**
+> **A landslide dating framework integrating remote sensing imagery and natural triggers**
 
 Once the manuscript is accepted, the source code will be released in this repository.
 
 ---
 # Overview
 
-The proposed framework constructs a dense vegetation index (VI) time series through fusion of multi-source remote sensing imagery. Signature anomalies are extracted from the series to quantify surface disturbances caused by landslides and to provide preliminary timing information at the revisit-interval scale. This preliminary timing is further refined by integrating anomalies from natural triggers, enabling dating precision beyond the satellite revisit cycle.
+The proposed framework constructs a dense vegetation index (VI) time series by fusing multi-source remote sensing imagery. Signature anomalies are extracted from this series to quantify surface disturbances caused by landslides and to provide preliminary timing information. This preliminary timing is further refined by integrating anomalies from natural triggers, thereby improving the accuracy of landslide dating.
 
 Additional methodological details are available in the manuscript.
 
@@ -53,7 +53,7 @@ Before this step, please download our executable program (Fig. 3).
 
 If this project is helpful to your research, please cite our article:
 
-> A landslide dating framework with sub revisit interval precision through integration of remote sensing imagery and natural triggers.
+> A landslide dating framework integrating remote sensing imagery and natural triggers.
 
 
 
