@@ -56,16 +56,15 @@ If this project is helpful to your research, please cite our article:
 
 
 
-
-<img width="974" height="620" alt="image" src="https://github.com/user-attachments/assets/04da5420-4a3e-4fc0-ae95-49c3f17f24bd" />
+ <img width="980" height="511" alt="image" src="https://github.com/user-attachments/assets/47e50b2b-5756-40f9-8ba4-cbf5bded1b30" />
 
 Fig. 1 Description of the Landslide Time Series Download Tool.
 
- <img width="984" height="692" alt="image" src="https://github.com/user-attachments/assets/a9074515-6ca3-4b17-8d80-3f44e714a3b0" />
+<img width="974" height="620" alt="image" src="https://github.com/user-attachments/assets/04da5420-4a3e-4fc0-ae95-49c3f17f24bd" />
 
 Fig. 2 Landslide time series table obtained from Step 1.
 
- <img width="980" height="511" alt="image" src="https://github.com/user-attachments/assets/47e50b2b-5756-40f9-8ba4-cbf5bded1b30" />
+ <img width="984" height="692" alt="image" src="https://github.com/user-attachments/assets/a9074515-6ca3-4b17-8d80-3f44e714a3b0" />
 
 Fig. 3 Local landslide dating executable program.
 
